@@ -1,0 +1,7 @@
+<xpath expr="//ul[@class='list-inline mb4']" position="after">
+      <CENTER><FONT size="1">
+        Société Bliblablo, au capital de <b>XXXXX</b> EUR<BR/>
+        <font color="red">SIRET 123456789 - TVA AA123456789</font><BR/>
+        Compte bancaire : BIC : AZERTY / IBAN : AA12 3456 7890 1234 5678
+      </FONT></CENTER>
+</xpath>
